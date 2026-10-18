@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+attendance.db
+attendance_export.csv
+face_model.yml
+faces/
